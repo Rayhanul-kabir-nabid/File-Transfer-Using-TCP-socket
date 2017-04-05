@@ -1,0 +1,12 @@
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\bin\Debug\File_transfer_SERVER_v1.0.exe.config
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\bin\Debug\File_transfer_SERVER_v1.0.exe
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\bin\Debug\File_transfer_SERVER_v1.0.pdb
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\bin\Debug\MetroFramework.Design.dll
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\bin\Debug\MetroFramework.dll
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\bin\Debug\MetroFramework.Fonts.dll
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\obj\Debug\File_transfer_SERVER_v1._0.Properties.Resources.resources
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\obj\Debug\File_transfer_SERVER_v1.0.csproj.GenerateResource.Cache
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\obj\Debug\File_transfer_SERVER_v1.0.exe
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\obj\Debug\File_transfer_SERVER_v1.0.pdb
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\obj\Debug\File_transfer_SERVER_v1.0.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\Computer network\File_transfer_SERVER_v1.0\File_transfer_SERVER_v1.0\obj\Debug\File_transfer_SERVER_v1._0.Server_form.resources
